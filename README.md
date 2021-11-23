@@ -1,6 +1,6 @@
 # INFORME-LABORATORIO N°2
 
- 1. Objetivos
+ Objetivos
 
 Objetivo General
 
@@ -12,12 +12,12 @@ Objetivos específicos
  2. Comparar los resultados del experimento a obtener de tres formas distintas, sea analítico experimental y simulado. 
  3. Explicar de manera teórica el método de corrientes de malla por medio de un cuadro sinóptico.
 
- 2. Explicación del procedimiento
+ Explicación del procedimiento
   
- 3. Respuesta a interrogantes y calculo del error
+ Respuesta a interrogantes y calculo del error
  
- 4. Video
+ Video
   
- 5. Conclusiones 
+ Conclusiones 
   
- 6. Bibliografía 
+ Bibliografía 
