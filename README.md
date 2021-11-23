@@ -47,7 +47,7 @@ en la tabla
 
  Resultados obtenidos para el circuito
 
-
+![4](https://user-images.githubusercontent.com/93900233/142969674-42c4e18c-bc1b-49d3-a756-84519153f27d.PNG)
 
 Video
   
