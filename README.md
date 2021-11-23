@@ -30,6 +30,18 @@ Procedimiento
 Implemente el circuito que se presenta en la figura
 
 
+
+Mida cada una de las corrientes de malla y anote los resultados en la tabla
+
+
+Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito 
+de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados 
+en la tabla
+
+![3](https://user-images.githubusercontent.com/93900233/142967936-ba68185a-25c4-4ed7-ad3a-b620984107b8.jpg)
+
+ Resultados obtenidos para el circuito
+
 ![3](https://user-images.githubusercontent.com/93900233/142967936-ba68185a-25c4-4ed7-ad3a-b620984107b8.jpg)
 
 Video
