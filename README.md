@@ -27,6 +27,7 @@ corriente de lazo pasa a través de un componente, se deberá incluir su caída 
 Paso 4. Resolver las ecuaciones resultantes.
 
 Procedimiento
+
 Implemente el circuito que se presenta en la figura
 
 
