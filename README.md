@@ -30,8 +30,12 @@ Procedimiento
 Implemente el circuito que se presenta en la figura
 
 
+![1](https://user-images.githubusercontent.com/93900233/142968833-81bf8227-51dd-4e12-8996-a455c125d55e.PNG)
+
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla
+
+![2](https://user-images.githubusercontent.com/93900233/142968802-08f709aa-2dc5-48d1-add9-a278805aa263.jpg)
 
 
 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito 
@@ -42,7 +46,7 @@ en la tabla
 
  Resultados obtenidos para el circuito
 
-![3](https://user-images.githubusercontent.com/93900233/142967936-ba68185a-25c4-4ed7-ad3a-b620984107b8.jpg)
+
 
 Video
   
