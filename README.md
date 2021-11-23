@@ -38,6 +38,10 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla
 
 ![2](https://user-images.githubusercontent.com/93900233/142968802-08f709aa-2dc5-48d1-add9-a278805aa263.jpg)
 
+![5](https://user-images.githubusercontent.com/93900233/142970055-2423f810-32e2-4f6e-8049-25160f7ff330.jpg)
+
+![6](https://user-images.githubusercontent.com/93900233/142970057-cd1f5ff6-e363-4f38-9bad-b0caef9fb501.jpg)
+
 
 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito 
 de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados 
