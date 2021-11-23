@@ -31,7 +31,7 @@ Paso 4. Resolver las ecuaciones resultantes.
 |Cantidad| Material o Equipo|
 |--------|------------------|
 |1 |Fuente de Voltaje de C.D.|
-|1 |Multímetro Digital|
+|3 |Multímetro Digital|
 |1 |Resistor de 820 Ω|
 |1 |Resistor de 390 Ω|
 |1 |Resistor de 1 kΩ|
