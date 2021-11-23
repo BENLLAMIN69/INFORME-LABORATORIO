@@ -73,9 +73,11 @@ en la tabla
 
 ![4](https://user-images.githubusercontent.com/93900233/142969825-4c41947f-a715-4efd-ac30-06db6fd76507.PNG)
 
-Video
-  
-Conclusiones 
+# Video
+
+https://youtu.be/lv8ljIMDHpg
+
+# Conclusiones 
 
  1. Dado el marco teórico se pudo aplicar el método de las corrientes de malla eficientemente, donde con la ayuda de laboratorios virtuales se comprobó los resultados del experimento práctico.
  2. Para el análisis de este circuito se usó todos los conocimientos básicos que se han aprendido durante este periodo de tiempo.
