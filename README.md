@@ -15,21 +15,20 @@ Objetivos específicos
 Marco teórico
 ![](https://github.com/BENLLAMIN69/INFORME-LABORATORIO/blob/main/Ima/png%20(4).png)
 
-Explicación del procedimiento
+Pasos para efectuar el análisis de las mallas
 
+Paso 1. La dirección asignada a una corriente de una malla es arbitraria, se asignará una corriente en el sentido de las manecillas del reloj. 
 
-mplemente el circuito que se presenta en la figura
+Paso 2. Indicar las polaridades de las caídas de voltaje en cada malla con base en las direcciones de corriente asignadas.
 
-![1](https://user-images.githubusercontent.com/93900233/142960515-5f16bf6d-0b97-4927-b945-1847518919a5.PNG)
+Paso 3. Aplicar la ley del voltaje de Kirchhoff alrededor de cada malla. Cuando más de una
+corriente de lazo pasa a través de un componente, se deberá incluir su caída de voltaje. Esto produce una ecuación para cada malla
 
-Mida cada una de las corrientes de malla y anote los resultados en la tabla
+Paso 4. Resolver las ecuaciones resultantes.
 
-
-  
- Respuesta a interrogantes y calculo del error
  
- Video
+Video
   
- Conclusiones 
+Conclusiones 
   
- Bibliografía 
+Bibliografía 
