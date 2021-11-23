@@ -30,5 +30,12 @@ Paso 4. Resolver las ecuaciones resultantes.
 Video
   
 Conclusiones 
-  
+
+ 1. Dado el marco teórico se pudo aplicar el método de las corrientes de malla eficientemente, donde con la ayuda de laboratorios virtuales se comprobó los resultados del experimento práctico.
+ 2. Para el análisis de este circuito se usó todos los conocimientos básicos que se han aprendido durante este periodo de tiempo.
+ 3. Al analizar el circuito y al proceder hacer los cálculos se verifico que el número de ecuaciones es igual a la cantidad de incógnitas requeridas, en este caso las corrientes.
+ 4. Se comprobó que la corriente que circula en un lazo no es necesariamente la corriente real presente en una rama.
+
 Bibliografía 
+
+-Floyd, T. (2007). Principios de circuitos eléctricos (8a. Ed.) (8a ed.). Naucalpan de Juárez: Pearson Educación.
