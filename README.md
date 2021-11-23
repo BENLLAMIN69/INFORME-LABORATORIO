@@ -43,13 +43,13 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla
 
 
 -------->  
-           ![image](https://user-images.githubusercontent.com/93900233/142971286-b77ad773-d3e8-4d0b-a350-bc5bee1e938a.png)
+                     ![image](https://user-images.githubusercontent.com/93900233/142971286-b77ad773-d3e8-4d0b-a350-bc5bee1e938a.png)
 
 -------->  
-           ![image](https://user-images.githubusercontent.com/93900233/142971171-890b93b3-bdb1-4d2b-bb26-5be240f481a0.png)
+                     ![image](https://user-images.githubusercontent.com/93900233/142971171-890b93b3-bdb1-4d2b-bb26-5be240f481a0.png)
 
 -------->  
-           ![image](https://user-images.githubusercontent.com/93900233/142971186-a5eba818-1d80-4f14-9ad1-c1c2be8eb601.png)
+                     ![image](https://user-images.githubusercontent.com/93900233/142971186-a5eba818-1d80-4f14-9ad1-c1c2be8eb601.png)
 
 ![5](https://user-images.githubusercontent.com/93900233/142970055-2423f810-32e2-4f6e-8049-25160f7ff330.jpg)
 
